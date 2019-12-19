@@ -1,2 +1,1 @@
-# Luiza
-Visual Designer
+luli-dsgn.github.io
